@@ -1,0 +1,38 @@
+@media (max-width:768px) {
+  .login-form {
+    width: 80%;
+    margin-top: 35%;
+  }
+  
+  .signup-form {
+    width: 80%;
+    margin-top: 30%;
+  }
+  }
+
+  @media (max-width:468px){
+    .login-form {
+      width: 80%;
+      margin-top: 35%;
+    }
+    
+    .signup-form {
+      width: 80%;
+      margin-top: 30%;
+    }
+  }
+
+  @media (max-width:380px){
+    .login-form {
+      width: 80%;
+      margin-top: 35%;
+    }
+    
+    .signup-form {
+      width: 80%;
+      margin-top: 30%;
+    }
+    
+  }
+
+
